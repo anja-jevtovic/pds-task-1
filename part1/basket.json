@@ -1,0 +1,13 @@
+{
+    "id":"id0001",
+    "ime":"Teodora",
+    "prezime":"Bacic",
+    "smer":"ri",
+    "predmeti":["PDS","OOP","MSA"],
+    "prosek":9.0,
+    "kontakt":{
+        "adresa":"Novi Beograd",
+        "mesto":"Beograd",
+        "telefon":381647777778
+    }
+}
